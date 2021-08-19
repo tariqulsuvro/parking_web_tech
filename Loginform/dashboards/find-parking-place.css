@@ -1,0 +1,375 @@
+.banner-area{
+	/*background-image: linear-gradient(to right, #fe8c00 , #f83600);*/
+	position: relative;
+}
+
+.upperspace{
+	padding-top: 100px;
+}
+
+.banner-img{
+	height: 400px;
+}
+
+.banner-content{
+	text-align:right;
+	padding-top: 50px;
+}
+
+.banner-content .hr-1 {
+	width:60%;
+	height: 4px;
+	background-color: black;
+}
+
+.banner-content .hr-2 {
+	width:23%;
+	height: 4px;
+	background-color: black;
+}
+
+.custom-select:focus {
+    border-color: #FDAD33!important;
+    outline: 0;
+    box-shadow: none!important;
+}
+
+/*##############################################*/
+				/*find-parking-table*/
+/*#############################################*/
+.find-parking-table{
+	margin-top: 20px;
+}
+
+.find-parking-table thead{
+	background-color: #fdad33;
+	color: white;
+}
+
+.find-parking-table button{
+	background-color: #fdad33;
+	border: none;
+	padding: 10px;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: orange!important;
+    border-color: orange!important;
+}
+
+.page-link {
+	color: black!important;
+}
+
+.page-link:focus {
+    box-shadow: none!important;
+}
+
+.book-submit-btn {
+    margin-top: 50px;
+    padding: 12px 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FDAD33;
+    z-index: 10!important;
+    opacity: 1!important;
+}
+
+		/* For New find parking main page */
+/*################################################*/
+	.upper-space{
+			padding-top: 76px;
+	}
+
+	.sign-up-area{
+		border-radius: 10px;
+		background-color:  #d5d8dc ;
+	}
+
+	.sign-up-form{
+		/*padding: 0px 30px;*/
+		padding-top: 10px;
+		padding-bottom: 15px;
+		/*background-color: transparent;*/
+	}
+
+	.sign-up{
+		/*background-color: white;*/
+		padding: 50px;
+	}
+
+	.sign-up-form .form-group{
+		padding: 5px 0px;
+	}
+
+	.time-picker-section .form-control:focus{
+		box-shadow: none!important;
+		border-color: gray!important;
+	}
+
+	.sign-up-btn{
+		background-color: #FFCC00;
+		font-weight: bold;
+	}
+
+	.sign-up-btn:hover{
+		background-color: #FDAD33;
+	}
+
+	.btn:focus{
+		box-shadow: none!important;
+	}
+
+	.sign-up-area .sign-up-modal .modal-body{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.sign-up-modal input{
+		border-top: 0px;
+		border-right: 0px;
+		border-left: 0px;
+		/*border-radius: 0px;*/
+	}
+
+	.sign-up .active{
+		background-color: #FFCC00!important;
+		border-bottom: 2px solid black;
+		opacity: 0.8;
+	}
+	.sign-up button{
+		border-bottom-style:3px solid transparent;
+	}
+
+	.sign-up .nav-link{
+		border-top: transparent;
+		border-left: transparent;
+		border-right: transparent;
+		background-color: orange;
+		font-weight: 600;
+	}
+
+	.sign-up ul li{
+		border: none;
+		outline: none;
+		padding: 0px!important;
+	}
+
+	.sign-up ul li button:focus {
+		border-top: none;
+		border-left: none;
+		border-right: none;
+		outline: none;
+	}
+	.hr-btn{
+		border-radius: 5px 0px 0px 5px!important;
+		padding-bottom: 5px!important;
+    	padding-top: 5px!important;
+	}
+
+	.mon-btn{
+		border-radius: 0px 5px 5px 0px!important;
+		padding-bottom: 5px!important;
+    	padding-top: 5px!important;
+	}
+
+	.parking-at{
+		padding: 5px 5px;
+		background-color: #FDAD33;
+		border-radius: 3px;
+		opacity: 0.8;
+	}
+
+	.parking-at input, .parking-at-icon{
+		height: 40px;
+		background-color: #FDAD33;
+		padding: 5px;
+	}
+
+	.parking-at input{
+		border: none;
+	}
+
+	.parking-at input:focus{
+		border: none;
+		background-color: #FDAD33;
+	}
+
+	.parking-at-icon .input-group-text{
+		background-color: transparent;
+		border: transparent;
+	}
+
+	.parking-at-icon i{
+		font-size: 20px;
+		border: none;
+	}
+
+	.time-picker-section{
+		padding: 10px 10px;
+		/*background-color: white;*/
+		border-radius: 3px;
+		margin-bottom:10px;
+		opacity: 0.8;
+	}
+
+	.time-picker-section input{
+		height: 30px;
+		background-color: #FDAD33;
+		padding: 10px;
+		border: none;
+	}
+
+	.time-picker-section input:focus{
+		border: none;
+		background-color: #FDAD33;
+	}
+
+	.time-picker-section label{
+		padding: 0px!important;
+		margin: 0px!important;
+	}
+
+	.time-picker-section .form-group{
+		padding-bottom: 0px!important;
+		margin-bottom: 0px!important;
+	}
+
+	.time-picker-section .form-control{
+		padding: 0px;
+	}
+
+	.datepicker-btn{
+		background-color: gray;
+		color: white;
+		opacity: 0.8;
+	}
+
+	.datepicker-btn:hover{
+		background-color:black;
+		opacity: 0.8;
+		color:white;
+
+	}
+
+
+
+.switch-field {
+	display: flex;
+	/*margin-bottom: 36px;*/
+	overflow: hidden;
+}
+
+.switch-field input {
+	position: absolute !important;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	width: 1px;
+	border: 0;
+	overflow: hidden;
+}
+
+.switch-field label {
+	background-color: #e4e4e4;
+	/*color: rgba(0, 0, 0, 0.6);*/
+	color: black;
+	font-size: 14px;
+	line-height: 1;
+	text-align: center;
+	padding: 8px 16px;
+	margin-right: -1px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+	transition: all 0.1s ease-in-out;
+}
+
+.switch-field label:hover {
+	cursor: pointer;
+}
+
+.switch-field input:checked + label {
+	/*background-color: #a5dc86;*/
+	background-color: gray;
+	box-shadow: none;
+	width: 50%;
+	color: white;
+}
+
+.switch-field label:first-of-type {
+	border-radius: 4px 0 0 4px;
+	width: 50%;
+}
+
+.switch-field label:last-of-type {
+	border-radius: 0 4px 4px 0;
+	width: 50%;
+
+}
+
+.time-picker-section .form-control{
+	color:white!important;
+	background-color:gray!important;
+}
+
+
+	.navbar-toggler {
+	    background-color: #FFCC00!important;
+	}
+}
+
+/*max width 575px for small devices*/
+
+@media screen and (max-width: 575px) {
+
+	.sign-up{
+		/*background-color: white;*/
+		padding: 30px;
+	}
+
+	.fixed-top {
+	    position: fixed;
+	    top: 0;
+	    right: 0;
+	    left: 0;
+	    z-index: 1030;
+	    background-color: darkorange;
+	}
+
+	.navbar-toggler {
+	    background-color: #FFCC00 !important;
+	}
+
+	.banner-img{
+		height: auto!important;
+	}
+
+	.square-pattern{
+		top: 557px !important;
+		width: 74%!important;
+	}
+
+	.find-parking-table{
+	margin-top: 80px;
+	}
+
+	/*for data-tabble table customization*/
+	.find-parking-table table td{
+		font-size: 12px !important;
+	}
+
+	.find-parking-table table th{
+		font-size: 14px !important;
+	}
+
+	.find-parking-table button{
+		font-size: 12px!important;
+		padding: 5px!important;
+	}
+
+	

@@ -1,0 +1,26 @@
+fieldset,
+input {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+fieldset {
+    padding: 5px;
+    margin: 0;
+    float: left;
+}
+
+#field1 {
+    width: 32%;
+    padding: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.table {
+    width: 100%;
+    margin-top: 85px;
+}

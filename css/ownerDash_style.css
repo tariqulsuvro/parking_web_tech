@@ -1,0 +1,17 @@
+.admpanel {
+    background-color: #B40404;
+    color: #FBF8EF;
+    padding: 10px;
+    font-family: ebrima;
+    margin-top: 3%;
+}
+
+th {
+    background-color: #F5A9A9;
+    text-align: center;
+}
+
+td {
+    background-color: #F7F8E0;
+    text-align: center;
+}

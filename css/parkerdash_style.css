@@ -1,0 +1,54 @@
+a:link,
+a:visited {
+    background-color: #DF013A;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-style: outset;
+}
+
+a:hover,
+a:active {
+    background-color: #FE2E64;
+    border-style: outset;
+}
+
+.admpanel {
+    background-color: #B40404;
+    color: #FBF8EF;
+    padding: 10px;
+    font-family: ebrima;
+}
+
+.id {
+    color: #0B615E;
+    font-family: sans-serif;
+}
+
+.search {
+    padding: 5px;
+    background-color: aqua;
+    font-family: ebrima;
+    color: rgb(19, 4, 4);
+    border-style: groove;
+}
+
+th {
+    background-color: #F5A9A9;
+    text-align: center;
+}
+
+td {
+    background-color: #F7F8E0;
+    text-align: center;
+}
+
+body {
+    background-color: #D8D8D8;
+}
+
+.owner_labels {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,13 @@
+ <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Sign up
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Parker Signup</a>
+          <a class="dropdown-item" href="#">Owner Signup</a>
+          <a class="dropdown-item" href="#">Admin Signup</a> 
+        </div>
+      </li>
+
+old link of css===  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet"/>
+
